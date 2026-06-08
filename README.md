@@ -84,7 +84,6 @@ La principal dificultad fue interpretar expresiones completas en lugar de traduc
 
 * **scope** → ámbito o alcance (Palabra muy utilizada en IT)
 * **dispatch** → dirigir o enviar la ejecución a una función específica.
-* **input arguments** → argumentos de entrada.
 * **defaults** → valores predeterminados. (Tiene otras traducciones,pero esta es la q más me cuesta)
 * **remaining** → restante.
 * **seemingly** → aparentemente.
