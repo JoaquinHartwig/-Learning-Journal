@@ -92,6 +92,12 @@ La principal dificultad fue interpretar expresiones completas en lugar de traduc
 * **type** → tipo de dato.
 * **M-file** → archivo de código MATLAB.
 * **wider → más amplio.
+* Nuevo vocabulario
+seamlessly → de manera fluida, sin interrupciones, sin problemas visibles.
+near → cerca de, próximo a.
+rough guess → estimación aproximada
+enlarges → amplía, agranda, aumenta el tamaño.
+wave → onda.
 
 ### Reflexión
 
