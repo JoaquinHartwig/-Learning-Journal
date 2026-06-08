@@ -88,6 +88,7 @@ La principal dificultad fue interpretar expresiones completas en lugar de traduc
 * **handle** → manejar, procesar o tratar.
 * **type** → tipo de dato.
 * **M-file** → archivo de código MATLAB.
+* **wider → más amplio.
 
 ### Reflexión
 
