@@ -9,7 +9,7 @@ Diario de aprendizaje
 ## Sobre este diario
 
 Registro diario de mi progreso autodidacta
-en programación e inglés, complementando
+en programación, ciberseguridad e inglés, complementando
 mi carrera universitaria.
 
 Creo firmemente que mejorar un 1% cada día
