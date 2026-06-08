@@ -45,6 +45,7 @@ de comenzar este registro.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
