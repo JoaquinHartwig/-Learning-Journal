@@ -46,6 +46,9 @@ de comenzar este registro.
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![English](https://img.shields.io/badge/Technical_English-00599C?style=for-the-badge&logo=readthedocs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
