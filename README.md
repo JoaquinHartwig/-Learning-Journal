@@ -15,6 +15,11 @@ mi carrera universitaria.
 Creo firmemente que mejorar un 1% cada día
 lleva a resultados extraordinarios con el tiempo.
 
+Empecé este diario el 08/06/2026 pero
+llevo más de un mes estudiando inglés
+y programación de forma diaria antes
+de comenzar este registro.
+
 ---
 
 ## Sobre mí
