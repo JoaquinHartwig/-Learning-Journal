@@ -1,5 +1,5 @@
 # -Learning-Journal
-Diario de aprendizaje diario
+Diario de aprendizaje 
 
 # 📚 Diario de Aprendizaje
 ### Joaquin Hartwig — UNaM FCEQyN
