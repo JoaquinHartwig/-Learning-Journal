@@ -9,8 +9,12 @@ El objetivo no es solo resolver ejercicios, sino comprender qué ocurre internam
 📚 Estructuras estudiadas
 TipoEstructuraEstadoEstáticaVector✅Dinámica linealLista enlazada✅Dinámica linealPila (LIFO)✅Dinámica linealCola (FIFO)🔄Dinámica no linealÁrbol🔄
 
+## AyED2
+📂 [Ver repositorio de AyED2](https://github.com/JoaquinHartwig/AyED2)
+
 📅 Learning Log
 2026
 
 📖 08/06/2026 — Listas enlazadas y Pilas
+
 
