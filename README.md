@@ -107,4 +107,79 @@ También aprendí que muchas palabras técnicas no tienen una traducción litera
 
 Sigo avanzando de forma gradual. Aunque todavía encuentro oraciones complejas, cada día necesito menos traducción automática y comprendo más contenido directamente en inglés. Mi objetivo sigue siendo alcanzar un nivel que me permita leer documentación técnica y artículos académicos con naturalidad.
 
+# Entrada - 08/06/2026
+
+## Algoritmos y Estructuras de Datos II (AED2)
+
+Esta semana dediqué gran parte del tiempo a trabajar con las estructuras de datos dinámicas vistas en la materia, especialmente listas enlazadas y pilas implementadas en lenguaje C.
+
+Repasé en profundidad el funcionamiento de los punteros dentro de los TDAs, intentando comprender no solo cómo utilizar las funciones sino también qué ocurre en memoria cuando se crean, recorren, modifican o eliminan nodos.
+
+### Conceptos trabajados
+
+**Listas enlazadas**
+
+* Creación de listas vacías mediante punteros inicializados en `NULL`.
+* Reserva dinámica de memoria con `malloc`.
+* Inserción de elementos al principio y al final de una lista.
+* Eliminación de elementos específicos.
+* Recorrido de listas utilizando punteros auxiliares.
+* Reconstrucción de listas luego de utilizar funciones destructivas como `sacarElemento`.
+
+**Pilas**
+
+* Implementación mediante listas enlazadas.
+* Operaciones fundamentales:
+
+  * `apilar`
+  * `desapilar`
+  * `esVacia`
+    
+* Comprensión del comportamiento LIFO (Last In, First Out).
+* Uso de pilas auxiliares para invertir o copiar estructuras sin perder información.
+
+### Ejercicios realizados
+
+Resolví y analicé varios ejercicios de parcial relacionados con:
+
+* Separación de elementos pares e impares en listas.
+* Generación de listas de aprobados y desaprobados.
+* Cálculo de porcentajes a partir de listas de notas.
+* Copia de pilas conservando los elementos originales.
+* Generación de pilas a partir de información almacenada en listas.
+* Diseño de TDAs para almacenar estructuras más complejas, como alumnos con nombre y nota.
+
+### Dificultades encontradas
+
+La principal dificultad  comprender con precisión cuándo utilizar:
+
+* `*` (desreferenciación)
+* `&` (dirección de memoria)
+* Variables de tipo puntero
+* Punteros a punteros
+
+Durante varios ejercicios cometí errores al pasar parámetros a funciones del TDA, especialmente en operaciones como:
+
+```
+insertarFinal(...)
+apilar(...)
+desapilar(...)
+sacarElemento(...)
+```
+
+Sin embargo, a medida que fui resolviendo más ejercicios empecé a identificar un patrón común:
+
+* Si una función debe modificar una lista o pila, generalmente recibe un puntero a la estructura.
+* Si una función solamente consulta información, recibe una copia del puntero.
+* Cuando se trabaja dentro de la función es necesario distinguir cuidadosamente entre la variable puntero y el nodo al que apunta.
+
+### Reflexión
+
+Hoy sentí que empecé a comprender las estructuras dinámicas de una forma mucho más profunda que en días anteriores. Al principio me enfocaba únicamente en memorizar funciones, pero durante la práctica descubrí que la clave está en visualizar constantemente qué puntero apunta a cada nodo y cómo cambian esas referencias durante la ejecución.
+
+También noté que muchos ejercicios aparentemente distintos comparten la misma lógica general: recorrer una estructura, analizar cada elemento, almacenar resultados en otra estructura auxiliar y finalmente reconstruir la original si fue modificada.
+
+Aunque todavía cometo errores con punteros y referencias, terminé el día con una comprensión mucho más sólida de listas y pilas, dos estructuras fundamentales para los temas más avanzados que veremos en la materia.
+
+
 
