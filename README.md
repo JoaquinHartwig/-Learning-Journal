@@ -39,7 +39,14 @@ de comenzar este registro.
    - Construir un perfil sólido en IT
 
 ---
+## 🗂️ Navegación
 
+- 📚 [Algoritmos y Estructuras de Datos II](AyED2/)
+- 💻 [C#](C%23/)
+- 🇬🇧 [Inglés Técnico](Ingles%20Técnico/)
+- 🔒 [Cybersecurity](Cybersecurity/)
+- 🐧 [Linux](Linux/)
+  
 ## Tecnologías que estoy aprendiendo
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
@@ -61,129 +68,8 @@ Cada entrada diaria incluye:
 - **Reflexión** → qué me costó y qué aprendí
 
 ---
-## 🗂️ Navegación
-
-- 📚 [Algoritmos y Estructuras de Datos II](AyED2/)
-- 💻 [C#](C%23/)
-- 🇬🇧 [Inglés Técnico](Ingles%20Técnico/)
-- 🔒 [Cybersecurity](Cybersecurity/)
-- 🐧 [Linux](Linux/)
-
-## Entradas
-## Entrada - 08/06/2026
-
-### Inglés Técnico
-
-Hoy continué trabajando con documentación técnica de PostgreSQL y MATLAB. Practiqué la traducción de oraciones complejas relacionadas con programación, bases de datos y procesamiento de datos.
-
-Algunas estructuras que me resultaron difíciles fueron:
-
-* *despite seemingly having protected against it from reaching an aggregate function in the first place*
-* *The remaining details of this function definition are not important here so long as they have defaults.*
-* *wider scope*
-* *These are said to be nested within the outer function.*
-* *but to handle each type somewhat differently. MATLAB chooses which M-file to dispatch to based on the type of the input arguments.*
-
-La principal dificultad fue interpretar expresiones completas en lugar de traducir palabra por palabra. En varios casos descubrí que comprender la estructura de la oración era más importante que conocer todas las palabras individualmente.
-
-### Palabras y conceptos aprendidos
 
 
-* **scope** → ámbito o alcance (Palabra muy utilizada en IT)
-* **dispatch** → dirigir o enviar la ejecución a una función específica.
-* **defaults** → valores predeterminados. (Tiene otras traducciones,pero esta es la q más me cuesta)
-* **remaining** → restante.
-* **seemingly** → aparentemente.
-* **despite** → a pesar de.
-* **handle** → manejar, procesar o tratar.
-* **type** → tipo de dato.
-* **M-file** → archivo de código MATLAB.
-* **wider → más amplio.
-* Nuevo vocabulario
-seamlessly → de manera fluida, sin interrupciones, sin problemas visibles.
-near → cerca de, próximo a.
-rough guess → estimación aproximada
-enlarges → amplía, agranda, aumenta el tamaño.
-wave → onda.
-
-### Reflexión
-
-Hoy confirmé algo que vengo notando desde hace varias semanas: mi comprensión del inglés técnico está mejorando. Hace un tiempo estas oraciones me habrían parecido imposibles de entender, mientras que ahora puedo analizarlas, identificar la estructura gramatical y llegar al significado correcto con ayuda mínima.
-
-También aprendí que muchas palabras técnicas no tienen una traducción literal única y que el contexto es fundamental. Conceptos como *scope*, *dispatch* o *nested* cambian ligeramente según el área de informática en la que se utilicen.
-
-Sigo avanzando de forma gradual. Aunque todavía encuentro oraciones complejas, cada día necesito menos traducción automática y comprendo más contenido directamente en inglés. Mi objetivo sigue siendo alcanzar un nivel que me permita leer documentación técnica y artículos académicos con naturalidad.
-
-## Entrada - 08/06/2026
-
-# Algoritmos y Estructuras de Datos II (AED2)
-
-Durante esta semana profundicé en el estudio de estructuras de datos dinámicas implementadas en lenguaje C, centrándome principalmente en listas enlazadas y pilas.
-
-El objetivo no fue únicamente resolver ejercicios, sino comprender qué ocurre internamente en memoria cuando se crean, recorren, modifican y destruyen estructuras dinámicas mediante punteros.
-
-## Conceptos trabajados
-
-### Listas enlazadas
-
-* Creación de listas vacías mediante punteros inicializados en `NULL`.
-* Reserva dinámica de memoria utilizando `malloc`.
-* Inserción de elementos al inicio y al final de una lista.
-* Eliminación de elementos específicos.
-* Recorrido secuencial mediante punteros auxiliares.
-* Reconstrucción de listas después de operaciones destructivas.
-
-### Pilas
-
-* Implementación utilizando listas enlazadas.
-* Operaciones fundamentales:
-
-  * `apilar`
-  * `desapilar`
-  * `esVacia`
-* Comprensión del comportamiento LIFO (*Last In, First Out*).
-* Utilización de estructuras auxiliares para copiar o invertir pilas sin perder información.
-
-## Ejercicios realizados
-
-Trabajé con ejercicios de nivel parcial relacionados con:
-
-* Separación de elementos pares e impares.
-* Generación de listas de aprobados y desaprobados.
-* Cálculo de estadísticas a partir de listas de notas.
-* Copia de pilas preservando la estructura original.
-* Conversión de listas en pilas.
-* Diseño de TDAs para representar entidades más complejas, como alumnos con nombre y nota.
-
-## Dificultades encontradas
-
-La mayor dificultad estuvo relacionada con el manejo de punteros y referencias, especialmente al distinguir entre:
-
-* Variables puntero.
-* Nodos apuntados por dichos punteros.
-* Operadores `*` y `&`.
-* Punteros a punteros.
-
-También encontré errores frecuentes al trabajar con funciones que modifican directamente estructuras dinámicas, como:
-
-* `insertarFinal()`
-* `apilar()`
-* `desapilar()`
-* `sacarElemento()`
-
-A medida que avancé, empecé a identificar patrones comunes en la resolución de problemas:
-
-* Las funciones que modifican una estructura suelen requerir acceso directo a ella.
-* Las funciones de consulta generalmente trabajan con copias del puntero.
-* Comprender el recorrido de referencias es tan importante como comprender el algoritmo en sí.
-
-## Reflexión
-
-Hoy sentí un cambio importante en mi forma de abordar estructuras dinámicas. Al comienzo me enfocaba en memorizar funciones y procedimientos, pero durante la práctica descubrí que la verdadera comprensión surge al visualizar constantemente cómo se conectan los nodos y cómo evolucionan los punteros durante la ejecución.
-
-También observé que muchos ejercicios aparentemente distintos comparten una misma estrategia general: recorrer una estructura, procesar información, utilizar estructuras auxiliares cuando es necesario y preservar la integridad de los datos originales.
-
-Aunque todavía cometo errores relacionados con punteros y referencias, terminé la jornada con una comprensión considerablemente más sólida de listas y pilas, dos estructuras fundamentales para temas más avanzados de la materia.
 
 
 
