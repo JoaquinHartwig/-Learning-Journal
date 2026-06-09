@@ -18,6 +18,7 @@ My long-term goal is to reach **C1 level proficiency** and be able to read techn
 
 * PostgreSQL Documentation
 * MATLAB Documentation
+* Geany Documentation
 * Technical English
 * Academic Reading
 * IT Vocabulary
