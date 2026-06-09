@@ -10,7 +10,7 @@ My long-term goal is to reach **C1 level proficiency** and be able to read techn
 
 ### 2026
 
-* 📖 [June 2026](English2026/2026-06.md)
+* 📖 [June 2026](https://github.com/JoaquinHartwig/-Learning-Journal/blob/main/English/English2026/2026-06.md.md)
 
 ---
 
