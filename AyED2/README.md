@@ -10,7 +10,7 @@ El objetivo no es solo resolver ejercicios, sino comprender qué ocurre internam
 TipoEstructuraEstadoEstáticaVector✅Dinámica linealLista enlazada✅Dinámica linealPila (LIFO)✅Dinámica linealCola (FIFO)🔄Dinámica no linealÁrbol🔄
 
 ## AyED2
-📂 [Ver repositorio de AyED2](https://github.com/JoaquinHartwig/AyED2)
+📂 [Ver repositorio de AyED2][(https://github.com/JoaquinHartwig/AyED2](https://github.com/JoaquinHartwig/AyED-2))
 
 📅 Learning Log
 2026
