@@ -61,6 +61,13 @@ Cada entrada diaria incluye:
 - **Reflexión** → qué me costó y qué aprendí
 
 ---
+## 🗂️ Navegación
+
+- 📚 [Algoritmos y Estructuras de Datos II](AyED2/)
+- 💻 [C#](C%23/)
+- 🇬🇧 [Inglés Técnico](Ingles%20Técnico/)
+- 🔒 [Cybersecurity](Cybersecurity/)
+- 🐧 [Linux](Linux/)
 
 ## Entradas
 ## Entrada - 08/06/2026
