@@ -10,6 +10,10 @@ Este repositorio funciona como una bitácora de progreso donde documento concept
 
 Mi objetivo no es únicamente acumular código, sino comprender los fundamentos de la programación, desarrollar buenas prácticas y construir una base sólida para proyectos cada vez más complejos.
 
+## Mini-Proyectos 
+
+https://github.com/JoaquinHartwig/CSharp-Practicas--Learning-Mini-projects-
+
 ## Tecnologías
 
 * C#
