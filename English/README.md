@@ -1,0 +1,50 @@
+# 🇬🇧 English Learning Journal
+
+Personal record of my English learning journey focused on programming, computer science, technical documentation, and academic reading.
+
+My long-term goal is to reach **C1 level proficiency** and be able to read technical documentation, books, and research papers naturally without relying on translation tools.
+
+---
+
+## 📅 Learning Log
+
+### 2026
+
+* 📖 [June 2026](English2026/2026-06.md)
+
+---
+
+## 📚 Study Areas
+
+* PostgreSQL Documentation
+* MATLAB Documentation
+* Technical English
+* Academic Reading
+* IT Vocabulary
+* Grammar Analysis
+* Programming Concepts in English
+
+---
+
+## 🎯 Goals
+
+* Reach **C1 English proficiency**
+* Read technical documentation comfortably
+* Understand academic papers and textbooks
+* Expand technical vocabulary
+* Improve reading comprehension
+* Reduce dependence on translators
+
+---
+
+## 📈 Current Focus
+
+* PostgreSQL documentation
+* MATLAB documentation
+* Sentence structure analysis
+* Technical vocabulary acquisition
+* Reading comprehension
+
+---
+
+> Consistency beats intensity. Small improvements every day lead to significant results over time.
