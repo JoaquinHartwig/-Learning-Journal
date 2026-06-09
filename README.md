@@ -1,74 +1,50 @@
-# -Learning-Journal
-Diario de aprendizaje 
-
 # 📚 Diario de Aprendizaje
-### Joaquin Hartwig — UNaM FCEQyN
 
----
+**Joaquin Hartwig — UNaM FCEQyN**
 
 ## Sobre este diario
 
-Registro diario de mi progreso autodidacta
-en programación, ciberseguridad e inglés, complementando
-mi carrera universitaria.
+Registro diario de mi progreso autodidacta en programación, ciberseguridad e inglés, complementando mi carrera universitaria.
 
-Creo firmemente que mejorar un 1% cada día
-lleva a resultados extraordinarios con el tiempo.
+Creo firmemente que mejorar un 1% cada día lleva a resultados extraordinarios con el tiempo.
 
-Empecé este diario el 08/06/2026 pero
-llevo más de un mes estudiando inglés
-y programación de forma diaria antes
-de comenzar este registro.
-
----
+Empecé este diario el 08/06/2026, pero llevo más de un mes estudiando inglés y programación de forma diaria antes de comenzar este registro.
 
 ## Sobre mí
 
-🎓 Estudiante de Analista en Sistemas /
-   Licenciatura en Sistemas de Información
-   en la FCEQyN — UNaM, Misiones, Argentina.
+🎓 Estudiante de Analista en Sistemas / Licenciatura en Sistemas de Información en la FCEQyN — UNaM, Misiones, Argentina.
 
-💻 Actualmente aprendiendo:
-   - C# y Windows Forms
-   - Algoritmos y Estructuras de Datos en C
-   - Inglés técnico
+### 💻 Actualmente aprendiendo
 
-🎯 Objetivos:
-   - Dominar C# y Python
-   - Alcanzar nivel C1 en inglés
-   - Construir un perfil sólido en IT
+* C# y Windows Forms
+* Algoritmos y Estructuras de Datos en C
+* Inglés técnico
 
----
+### 🎯 Objetivos
+
+* Dominar C# y Python
+* Alcanzar nivel C1 en inglés
+* Construir un perfil sólido en IT
+
 ## 🗂️ Navegación
 
-- 📚 [Algoritmos y Estructuras de Datos II](AyED2/)
-- 💻 [C#](C%23/)
-- 🇬🇧 [Inglés Técnico](Ingles%20Técnico/)
-- 🔒 [Cybersecurity](Cybersecurity/)
-- 🐧 [Linux](Linux/)
-  
+* 📚 [Algoritmos y Estructuras de Datos II](AyED2/)
+* 💻 [C#](CSharp/)
+* 🇬🇧 [English](English/)
+* 🔒 [Cybersecurity](Cybersecurity/)
+* 🐧 [Linux](Linux/)
+
 ## Tecnologías que estoy aprendiendo
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![English](https://img.shields.io/badge/Technical_English-00599C?style=for-the-badge&logo=readthedocs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
+`C#` `C` `Git` `Linux` `English` `PostgreSQL` `MATLAB`
 
 ## Estructura del diario
 
 Cada entrada diaria incluye:
 
-- **Programación** → ejercicios y conceptos nuevos
-- **Inglés** → traducción, vocabulario y comprensión
-- **Reflexión** → qué me costó y qué aprendí
-
----
-
+* Programación → ejercicios y conceptos nuevos.
+* Inglés → traducción, vocabulario y comprensión.
+* Reflexión → qué me costó y qué aprendí.
 
 
 
