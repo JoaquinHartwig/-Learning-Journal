@@ -13,7 +13,7 @@ Mi objetivo no es únicamente acumular código, sino comprender los fundamentos 
 ## Mini-Proyectos 
 
 https://github.com/JoaquinHartwig/CSharp-Practicas--Learning-Mini-projects-
-
+https://github.com/JoaquinHartwig/Seminario-De-Lenguajes-1
 ## Tecnologías
 
 * C#
