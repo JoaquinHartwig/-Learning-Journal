@@ -1,0 +1,99 @@
+# Entrada - 09/06/2026 (semanas anteriores)
+
+## C# y Programación Orientada a Objetos
+
+Durante estos últimos días continué profundizando en el lenguaje C#, avanzando desde conceptos básicos hacia temas más relacionados con la Programación Orientada a Objetos (POO).
+
+### Conceptos trabajados
+
+#### Métodos
+
+Aprendí a crear y utilizar métodos para dividir programas en partes más pequeñas y reutilizables. Practiqué:
+
+* Métodos con parámetros.
+* Métodos con valores de retorno mediante `return`.
+* Diferencia entre variables locales y parámetros.
+* Llamada de métodos desde `Main`.
+
+También comprendí por qué una variable declarada dentro de un método no puede utilizarse directamente desde otro método sin pasarla como argumento.
+
+#### Sobrecarga de métodos
+
+Estudié la sobrecarga de métodos, entendiendo que varios métodos pueden compartir el mismo nombre siempre que tengan firmas diferentes.
+
+Ejemplos trabajados:
+
+* Distinta cantidad de parámetros.
+* Distintos tipos de datos.
+* Cómo el compilador decide qué versión ejecutar.
+
+#### Palabra clave `params`
+
+Aprendí a utilizar `params` para permitir que un método reciba una cantidad variable de argumentos.
+
+Esto me permitió comprender una forma flexible de diseñar funciones que pueden trabajar con diferentes cantidades de datos de entrada.
+
+### Manejo de excepciones
+
+Comencé a trabajar con:
+
+* `try`
+* `catch`
+* `finally`
+
+Practicando la captura de errores provocados por:
+
+* Entradas inválidas.
+* Conversión incorrecta de datos.
+* Operaciones matemáticas problemáticas.
+
+También descubrí que la división entre números de tipo `double` y cero no genera necesariamente una excepción como sucede con enteros, lo que me llevó a investigar el comportamiento interno de los tipos numéricos en C#.
+
+### Arrays multidimensionales
+
+Trabajé con matrices bidimensionales utilizando arreglos como:
+
+```csharp
+string[,] estacionamiento
+```
+
+Aprendí a:
+
+* Acceder a filas y columnas.
+* Recorrer matrices mediante bucles anidados.
+* Utilizar `GetLength()` para obtener el tamaño de cada dimensión.
+
+Uno de los conceptos más importantes fue comprender que:
+
+* `GetLength(0)` devuelve la cantidad de filas.
+* `GetLength(1)` devuelve la cantidad de columnas.
+
+### Programación Orientada a Objetos
+
+Continué avanzando en conceptos fundamentales de POO:
+
+* Clases.
+* Objetos.
+* Constructores.
+* Herencia.
+* Polimorfismo.
+* Interfaces.
+
+Además comprendí que en el contexto de la Programación Orientada a Objetos las funciones suelen denominarse métodos porque pertenecen a una clase.
+
+### Git y GitHub
+
+También dediqué tiempo a mejorar la organización de mis repositorios.
+
+Aprendí a:
+
+* Crear y editar archivos README.
+* Organizar repositorios de aprendizaje.
+* Utilizar GitHub Desktop y Git desde terminal.
+* Resolver problemas relacionados con commits, ramas y sincronización con GitHub.
+
+### Reflexión
+
+Durante estos días sentí que empecé a comprender mejor la lógica detrás de C#. Más allá de memorizar sintaxis, intenté enfocarme en entender por qué cada herramienta existe y qué problema intenta resolver.
+
+También avancé en la organización de mi GitHub, transformándolo progresivamente en una documentación pública de mi aprendizaje. Mi objetivo no es únicamente aprender tecnologías, sino registrar de manera consistente el proceso de crecimiento y construcción de habilidades dentro del mundo IT.
