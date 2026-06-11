@@ -4,7 +4,7 @@
 
 Repositorio dedicado a registrar mi aprendizaje de C# a través de ejercicios, prácticas y mini proyectos desarrollados de forma autodidacta, complementando mis estudios de Analista en Sistemas y Licenciatura en Sistemas de Información en la UNaM FCEQyN.
 
-## June-2026 https://github.com/JoaquinHartwig/-Learning-Journal/blob/main/CSharp/Daily-Logs.md
+## [June-2026](https://github.com/JoaquinHartwig/-Learning-Journal/blob/main/CSharp/Daily-Logs.md)
 
 ## Objetivo
 
