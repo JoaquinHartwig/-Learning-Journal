@@ -1,4 +1,4 @@
-# Entrada - 09/06/2026 (semanas anteriores)
+# Entrada - 08/06/2026 (semanas anteriores)
 
 ## C# y Programación Orientada a Objetos
 
@@ -97,3 +97,104 @@ Aprendí a:
 Durante estos días sentí que empecé a comprender mejor la lógica detrás de C#. Más allá de memorizar sintaxis, intenté enfocarme en entender por qué cada herramienta existe y qué problema intenta resolver.
 
 También avancé en la organización de mi GitHub, transformándolo progresivamente en una documentación pública de mi aprendizaje. Mi objetivo no es únicamente aprender tecnologías, sino registrar de manera consistente el proceso de crecimiento y construcción de habilidades dentro del mundo IT.
+
+# Entrada - 09/06/2026
+
+## C# y Programación Orientada a Objetos
+
+Durante esta jornada retomé el estudio de C# después de haber dedicado varias semanas principalmente a materias de la universidad. Aunque noté que algunos conceptos se habían oxidado por falta de práctica, también descubrí que gran parte de los fundamentos seguían presentes y podían recuperarse rápidamente mediante ejercicios y repaso.
+
+El foco principal estuvo en profundizar conceptos relacionados con Programación Orientada a Objetos (POO), especialmente propiedades, encapsulamiento, polimorfismo e interfaces.
+
+## Conceptos trabajados
+
+### Propiedades (Getters y Setters)
+
+Repasé el uso de propiedades para controlar el acceso a variables privadas dentro de una clase.
+
+Trabajé con ejemplos donde una propiedad valida los datos antes de almacenarlos, evitando estados inválidos para un objeto.
+
+Conceptos reforzados:
+
+* Campos privados.
+* Encapsulamiento.
+* Propiedades con `get` y `set`.
+* Uso de validaciones dentro del setter.
+* Diferencia entre modificar directamente un campo privado y utilizar una propiedad.
+
+También comprendí un error frecuente: al asignar valores directamente al campo privado dentro del constructor se evita la ejecución de las validaciones definidas en el setter.
+
+### Constructores y palabra clave `this`
+
+Repasé el propósito de la palabra clave `this`.
+
+Comprendí que permite diferenciar claramente entre:
+
+* Parámetros recibidos por un método o constructor.
+* Atributos pertenecientes al objeto actual.
+
+Ejemplo conceptual:
+
+* `nombre` → parámetro.
+* `this.nombre` → atributo del objeto.
+
+### Polimorfismo
+
+Comencé a estudiar uno de los pilares más importantes de la Programación Orientada a Objetos.
+
+Analicé el funcionamiento de:
+
+* `virtual`
+* `override`
+
+Comprendiendo que:
+
+* `virtual` permite que un método sea redefinido.
+* `override` reemplaza la implementación heredada.
+
+También entendí la idea central del polimorfismo:
+
+Una referencia de tipo padre puede almacenar objetos de distintas clases hijas y ejecutar comportamientos diferentes dependiendo del objeto real almacenado.
+
+### Interfaces
+
+Aprendí la diferencia conceptual entre clases e interfaces.
+
+Comprendí que:
+
+* Una clase representa lo que un objeto es.
+* Una interfaz representa lo que un objeto puede hacer.
+
+Analicé ejemplos donde diferentes clases implementan una misma interfaz compartiendo capacidades sin necesidad de heredar entre sí.
+
+### Listas de Objetos
+
+Comencé a trabajar con colecciones genéricas utilizando:
+
+```csharp
+List<Jugador>
+```
+
+Comprendiendo que una lista puede almacenar múltiples objetos creados a partir de una misma clase.
+
+También repasé conceptos relacionados con constructores y creación de instancias dentro de colecciones.
+
+## Dificultades encontradas
+
+La principal dificultad estuvo relacionada con distinguir cuándo una acción se realiza sobre:
+
+* El objeto.
+* La propiedad.
+* El campo privado interno.
+
+En algunos ejercicios asumía que las validaciones se ejecutaban automáticamente, cuando en realidad estaba modificando directamente los campos internos.
+
+También tuve que reforzar la diferencia entre herencia e interfaces, ya que inicialmente ambos conceptos parecían resolver problemas similares.
+
+## Reflexión
+
+Esta jornada me permitió comprobar algo importante: aunque había dejado temporalmente C# para concentrarme en materias de la carrera, los conocimientos no desaparecieron completamente. Muchos conceptos regresaron con rapidez una vez que volví a practicar.
+
+También confirmé que la programación es una habilidad que requiere contacto frecuente. No necesariamente grandes sesiones de estudio todos los días, pero sí una exposición constante que mantenga frescos los conceptos.
+
+Mi objetivo a partir de ahora es mantener una práctica regular de C#, incluso durante períodos exigentes de la universidad, para evitar largos intervalos sin programar y continuar construyendo una base sólida para proyectos más complejos en el futuro.
