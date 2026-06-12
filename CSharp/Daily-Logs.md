@@ -291,3 +291,65 @@ A partir de este momento quiero enfocarme en aplicar lo aprendido mediante progr
 
 Este curso me dio las herramientas iniciales. Ahora el desafío consiste en transformarlas en experiencia mediante la práctica constante y la creación de proyectos reales.
 
+
+# Entrada - 11/06/2026
+
+## C# - Turn Based Combat Game (RPG)
+
+La sesión de estudio de hoy fue relativamente corta, pero tuvo un objetivo importante: mantener el hábito de programar y seguir en contacto con el lenguaje, incluso durante una etapa donde gran parte de mi tiempo está dedicada a la universidad y a la preparación de parciales.
+
+No quise repetir el error de meses anteriores, donde dejé completamente de lado C# durante varias semanas y luego tuve que invertir tiempo extra para recuperar fluidez. Por eso decidí dedicar aunque sea un pequeño espacio del día a seguir construyendo proyectos y reforzando conceptos.
+
+### Elección del proyecto
+
+Durante la jornada estuve evaluando distintas ideas de proyectos para continuar practicando programación orientada a objetos. Finalmente decidí comenzar el desarrollo de un pequeño RPG por turnos, un tipo de proyecto que me permite aplicar muchos de los conceptos vistos durante el curso de C#.
+
+El objetivo no es únicamente terminar el juego, sino utilizarlo como una herramienta para consolidar conocimientos y descubrir qué aspectos todavía necesito reforzar.
+
+### Avances realizados
+
+Comencé diseñando una clase `Unit`, que representa una unidad dentro del sistema de combate.
+
+Implementé:
+
+* Atributos privados para almacenar estadísticas.
+* Constructor para inicializar cada unidad.
+* Sistema básico de ataque.
+* Método para recibir daño.
+* Generación de daño aleatorio mediante `Random`.
+
+También aproveché el proyecto para comprender mejor cómo interactúan los objetos entre sí, permitiendo que una unidad pueda atacar directamente a otra.
+
+### Conceptos reforzados
+
+Durante esta sesión repasé y utilicé:
+
+* Clases y objetos.
+* Constructores.
+* Encapsulamiento.
+* Métodos.
+* Parámetros de tipo objeto.
+* Generación de números aleatorios.
+* Programación orientada a objetos aplicada a un proyecto real.
+
+### Aspectos a seguir trabajando
+
+Aunque logré avanzar, todavía siento que hay conceptos que necesito incorporar con mayor naturalidad.
+
+Algunas áreas que quiero seguir practicando son:
+
+* Herencia.
+* Polimorfismo.
+* Interfaces.
+* Propiedades.
+* Colecciones de objetos.
+* Organización de proyectos más grandes.
+
+Mi objetivo es llegar al punto donde estas herramientas formen parte natural de mi forma de programar y no simplemente conceptos aprendidos durante un curso.
+
+### Reflexión
+
+La sesión de hoy confirmó algo que ya venía pensando desde hace tiempo: mantener la constancia es más importante que estudiar muchas horas un solo día.
+
+Aunque el avance fue pequeño, pude seguir en contacto con el lenguaje, trabajar sobre un proyecto que me resulta interesante y mantener vivo el hábito de programar. Considero que esta continuidad será clave para seguir creciendo en C# mientras continúo avanzando con las materias de la universidad.
+
