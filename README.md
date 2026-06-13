@@ -17,7 +17,7 @@ I use it to document my daily progress in programming, cybersecurity, Linux, and
 
 ## 👨‍💻 About Me
 
-I'm a Systems Analyst and Information Systems student at UNaM (Misiones, Argentina) with a strong interest in software development, problem solving, and continuous learning.
+I'm a Systems Analyst and Information Systems student at UNaM (Misiones, Argentina) with a strong interest in software development, problem solving, cybersecurity and continuous learning.
 
 I enjoy documenting what I learn, building projects, and strengthening both my technical and analytical skills.
 
@@ -85,12 +85,46 @@ I enjoy documenting what I learn, building projects, and strengthening both my t
 * Topics to review
 
 ---
+## 📅 About the Entries
+
+Each entry documents a learning session and usually includes:
+
+### 📚 Topics Studied
+
+A detailed description of the concepts explored during the day, including explanations, exercises, projects, and technologies used.
+
+### 💡 Key Concepts Learned
+
+Important ideas, techniques, vocabulary, or programming concepts that were understood or reinforced during the study session.
+
+### ⚠️ Challenges Encountered
+
+Concepts that were difficult to understand, mistakes made, or questions that required deeper investigation.
+
+### 🧠 Reflection
+
+A personal analysis of the learning process, focusing on progress, difficulties, discoveries, and areas that need further practice.
+
+### 📈 Progress Tracking
+
+The objective is not only to record what was studied, but also to document how understanding evolves over time through consistent practice.
+
+---
 
 ## 📈 Philosophy
 
 Learning is a long-term process.
 
 This journal is a commitment to continuous improvement, curiosity, and disciplined practice. Every entry represents one more step toward becoming a better developer.
+
+## 🔍 Learning Philosophy
+
+This journal is not intended to be a collection of notes.
+
+Its purpose is to document the learning process itself: what I studied, how I understood it, where I struggled, and how my understanding evolved over time.
+
+By keeping a public record of my progress, I can review previous challenges, measure long-term growth, and maintain consistency in my studies.
+
 
 
 
