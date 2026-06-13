@@ -8,7 +8,6 @@ Registro diario de mi progreso autodidacta en programación, ciberseguridad e in
 
 Creo firmemente que mejorar un 1% cada día lleva a resultados extraordinarios con el tiempo.
 
-Empecé este diario el 08/06/2026, pero llevo más de un mes estudiando inglés y programación de forma diaria antes de comenzar este registro.
 
 ## Sobre mí
 
@@ -19,6 +18,8 @@ Empecé este diario el 08/06/2026, pero llevo más de un mes estudiando inglés 
 * C# y Windows Forms
 * Algoritmos y Estructuras de Datos en C
 * Inglés técnico
+* Git & Github
+* Linux
 
 ### 🎯 Objetivos
 
