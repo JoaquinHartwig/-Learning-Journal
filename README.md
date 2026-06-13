@@ -110,6 +110,15 @@ A personal analysis of the learning process, focusing on progress, difficulties,
 The objective is not only to record what was studied, but also to document how understanding evolves over time through consistent practice.
 
 ---
+## 🌎 About the Language Used
+
+This journal is written in both Spanish and English.
+
+As part of my learning process, I intentionally document some topics in English to improve my technical reading and writing skills. Other entries are written in Spanish when the objective is to reflect on concepts, learning strategies, or personal progress.
+
+The language may vary depending on the topic and learning goals of each entry.
+
+---
 
 ## 📈 Philosophy
 
