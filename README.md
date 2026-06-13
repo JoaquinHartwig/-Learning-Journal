@@ -1,52 +1,96 @@
-# 📚 Diario de Aprendizaje
+# 📚 Learning Journal
 
-**Joaquin Hartwig — UNaM FCEQyN**
+**Joaquín Hartwig**
+🎓 Systems Analyst & Information Systems Student — UNaM FCEQyN
 
-## Sobre este diario
+---
 
-Registro diario de mi progreso autodidacta en programación, ciberseguridad e inglés, complementando mi carrera universitaria.
+## 🚀 About This Repository
 
-Creo firmemente que mejorar un 1% cada día lleva a resultados extraordinarios con el tiempo.
+This repository is my personal learning journal.
 
+I use it to document my daily progress in programming, cybersecurity, Linux, and technical English while pursuing my university degree. The goal is not only to store notes, but also to build consistency, track growth, and create a public record of my learning journey.
 
-## Sobre mí
+> "Small improvements, repeated every day, lead to remarkable results over time."
 
-🎓 Estudiante de Analista en Sistemas / Licenciatura en Sistemas de Información en la FCEQyN — UNaM, Misiones, Argentina.
+---
 
-### 💻 Actualmente aprendiendo
+## 👨‍💻 About Me
 
-* C# y Windows Forms
-* Algoritmos y Estructuras de Datos en C
-* Inglés técnico
-* Git & Github
+I'm a Systems Analyst and Information Systems student at UNaM (Misiones, Argentina) with a strong interest in software development, problem solving, and continuous learning.
+
+I enjoy documenting what I learn, building projects, and strengthening both my technical and analytical skills.
+
+---
+
+## 📖 Currently Learning
+
+* C# and Windows Forms
+* Data Structures and Algorithms in C
+* Technical English
+* Git & GitHub
 * Linux
+* PostgreSQL
+* MATLAB
 
-### 🎯 Objetivos
+---
 
-* Dominar C# y Python
-* Alcanzar nivel C1 en inglés
-* Construir un perfil sólido en IT
+## 🎯 Long-Term Goals
 
-## 🗂️ Navegación
+* Become highly proficient in C# and Python
+* Achieve C1-level English proficiency
+* Build a strong software development portfolio
+* Develop solid foundations in computer science
+* Grow into a well-rounded IT professional
 
-* 📚 [Data Structures and Algorithms II](AyED2/)
-* 💻 [CSharp](CSharp/)
-* 🇬🇧 [English](English/)
-* 🔒 [Cybersecurity](Cybersecurity/)
-* 🐧 [Linux](Linux/)
+---
 
-## Tecnologías que estoy aprendiendo
+## 🗂️ Repository Structure
 
-`C#` `C` `Git` `Linux` `English` `PostgreSQL` `MATLAB`
+| Area                               | Description                                        |
+| ---------------------------------- | -------------------------------------------------- |
+| 📚 Data Structures & Algorithms II | University coursework, exercises and practice      |
+| 💻 C#                              | Projects, notes and experiments                    |
+| 🇬🇧 English                       | Technical English learning and translations        |
+| 🔒 Cybersecurity                   | Security concepts and learning resources           |
+| 🐧 Linux                           | Commands, notes and system administration concepts |
 
-## Estructura del diario
+---
 
-Cada entrada diaria incluye:
+## 🛠️ Technologies & Tools
 
-* Programación → ejercicios y conceptos nuevos.
-* Inglés → traducción, vocabulario y comprensión.
-* Reflexión → qué me costó y qué aprendí.
+`C#` `C` `Python` `Git` `GitHub` `Linux` `PostgreSQL` `MATLAB`
 
+---
+
+## 📅 What Each Daily Entry Contains
+
+### Programming
+
+* New concepts
+* Exercises
+* Personal projects
+* Problem-solving practice
+
+### English
+
+* Vocabulary
+* Reading comprehension
+* Technical translations
+
+### Reflection
+
+* Challenges encountered
+* Lessons learned
+* Topics to review
+
+---
+
+## 📈 Philosophy
+
+Learning is a long-term process.
+
+This journal is a commitment to continuous improvement, curiosity, and disciplined practice. Every entry represents one more step toward becoming a better developer.
 
 
 
