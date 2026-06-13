@@ -28,8 +28,8 @@ Empecé este diario el 08/06/2026, pero llevo más de un mes estudiando inglés 
 
 ## 🗂️ Navegación
 
-* 📚 [Algoritmos y Estructuras de Datos II](AyED2/)
-* 💻 [C#](CSharp/)
+* 📚 [Data Structures and Algorithms II](AyED2/)
+* 💻 [CSharp](CSharp/)
 * 🇬🇧 [English](English/)
 * 🔒 [Cybersecurity](Cybersecurity/)
 * 🐧 [Linux](Linux/)
