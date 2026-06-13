@@ -45,16 +45,16 @@ I enjoy documenting what I learn, building projects, and strengthening both my t
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Navigation
 
-| Area                               | Description                                        |
-| ---------------------------------- | -------------------------------------------------- |
-| 📚 Data Structures & Algorithms II | University coursework, exercises and practice      |
-| 💻 C#                              | Projects, notes and experiments                    |
-| 🇬🇧 English                       | Technical English learning and translations        |
-| 🔒 Cybersecurity                   | Security concepts and learning resources           |
-| 🐧 Linux                           | Commands, notes and system administration concepts |
-
+| Category | Description |
+|-----------|------------|
+| 📚 [Data Structures and Algorithms II](AyED2/) | University coursework, exercises and algorithm practice |
+| 💻 [C#](CSharp/) | Projects, notes, OOP concepts and Windows Forms |
+| 🔒 [Cybersecurity](Cybersecurity/) | Security fundamentals and learning resources |
+| 🇬🇧 [English](English/) | Technical English, translations and vocabulary |
+| 🌿 [Git & GitHub](Git%20%26%20GitHub/) | Version control and repository management |
+| 🐧 [Linux](Linux/) | Linux commands and operating system concepts |
 ---
 
 ## 🛠️ Technologies & Tools
