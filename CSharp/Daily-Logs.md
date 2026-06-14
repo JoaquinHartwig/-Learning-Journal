@@ -353,3 +353,31 @@ La sesión de hoy confirmó algo que ya venía pensando desde hace tiempo: mante
 
 Aunque el avance fue pequeño, pude seguir en contacto con el lenguaje, trabajar sobre un proyecto que me resulta interesante y mantener vivo el hábito de programar. Considero que esta continuidad será clave para seguir creciendo en C# mientras continúo avanzando con las materias de la universidad.
 
+### C# Daily Log - 13/06/2026
+
+Today I dedicated my free time to C# development and continued working on my Tic-Tac-Toe project.
+
+One interesting discovery was realizing that the tutorial I was following was actually built using WPF, while I had implemented the project as a console application. At first I thought this meant I had taken the wrong approach, but after reflecting on it, I realized that the most important part was understanding and implementing the game logic myself.
+
+During this session I worked on and reinforced several concepts:
+
+* Object-Oriented Programming (OOP)
+* Classes and objects
+* Properties
+* Enums
+* Events and delegates
+* Two-dimensional arrays
+* Turn management
+* Win and draw detection logic
+* Game state management
+* Method analysis and code comprehension
+
+I spent a significant amount of time reading and understanding the code rather than simply copying it. My goal was to understand why each piece exists and how the different classes communicate with one another.
+
+By the end of the session, I managed to get a playable console version of Tic-Tac-Toe running. While there are still improvements to make, the project now has a solid foundation and serves as a practical example of several important C# concepts.
+
+Future improvements include input validation, AI opponents, code refactoring, and eventually rebuilding the project using WPF to learn graphical user interface development.
+
+Today's session reinforced something important: understanding the logic behind the code is far more valuable than simply finishing a project as quickly as possible.
+
+
