@@ -353,7 +353,13 @@ La sesión de hoy confirmó algo que ya venía pensando desde hace tiempo: mante
 
 Aunque el avance fue pequeño, pude seguir en contacto con el lenguaje, trabajar sobre un proyecto que me resulta interesante y mantener vivo el hábito de programar. Considero que esta continuidad será clave para seguir creciendo en C# mientras continúo avanzando con las materias de la universidad.
 
+<<<<<<< HEAD
 # C# Daily Log - 13/06/2026
+=======
+# Entrada - 13/06/2026
+
+### C# Daily Log - 13/06/2026
+>>>>>>> 35004a5f1b797e43166154b8202376f91c2b86ec
 
 Today I dedicated my free time to C# development and continued working on my Tic-Tac-Toe project.
 
@@ -380,3 +386,7 @@ Future improvements include input validation, AI opponents, code refactoring, an
 
 Today's session reinforced something important: understanding the logic behind the code is far more valuable than simply finishing a project as quickly as possible.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 35004a5f1b797e43166154b8202376f91c2b86ec
