@@ -1,116 +1,86 @@
-# C# Learning Journey
+## C# Learning Journey
 
-> Documenting the climb.
+Welcome to my C# learning journey.
 
-Repositorio dedicado a registrar mi aprendizaje de C# a través de ejercicios, prácticas y mini proyectos desarrollados de forma autodidacta, complementando mis estudios de Analista en Sistemas y Licenciatura en Sistemas de Información en la UNaM FCEQyN.
+This section documents my progress as I learn C#, software development, and object-oriented programming. My goal is not only to learn the language itself, but also to understand how to design programs, solve problems, and build real-world projects.
 
-## [June-2026](https://github.com/JoaquinHartwig/-Learning-Journal/blob/main/CSharp/Daily-Logs.md)
+## Goals
 
-## Objetivo
+* Master C# fundamentals.
+* Develop strong Object-Oriented Programming (OOP) skills.
+* Learn software design principles.
+* Build increasingly complex projects.
+* Improve problem-solving and logical thinking.
+* Become comfortable reading technical documentation and books in English.
 
-Este repositorio funciona como una bitácora de progreso donde documento conceptos, ejercicios y proyectos realizados mientras aprendo el lenguaje C#.
+## Current Focus
 
-Mi objetivo no es únicamente acumular código, sino comprender los fundamentos de la programación, desarrollar buenas prácticas y construir una base sólida para proyectos cada vez más complejos.
+At the moment, I am focusing on:
 
-## Mini-Proyectos 
+* Classes and Objects
+* Properties
+* Constructors
+* Enums
+* Collections
+* Events and Delegates
+* Object-Oriented Programming
 
-(https://github.com/JoaquinHartwig/CSharp-Practicas--Learning-Mini-projects-)
-(https://github.com/JoaquinHartwig/Seminario-De-Lenguajes-1)
-## Tecnologías
+## Projects
 
-* C#
-* .NET
-* Windows Forms
-* Visual Studio
-* Git & GitHub
+Some projects developed during this journey:
 
-## Temas estudiados
+### Turn-Based Combat Game
 
-### Fundamentos
+A console-based RPG combat simulator featuring:
 
-* Entrada y salida de datos
-* Variables y constantes
-* Conversión de tipos (Type Casting)
-* Operadores aritméticos
-* Clase Math
-* Números aleatorios
+* Attacking
+* Healing
+* Randomized damage
+* Multiple units
+* Expandable architecture for future character classes
 
-### Control de flujo
+### Tic-Tac-Toe
 
-* If / Else
-* Switch
-* Operadores lógicos
-* Bucles While
-* Bucles For
-* Bucles anidados
+A complete console implementation featuring:
 
-### Métodos
+* 3x3 game board
+* Win detection
+* Draw detection
+* Player switching
+* Event-driven game logic
 
-* Métodos
-* Return
-* Sobrecarga de métodos
-* Params
+Future plans include creating a graphical version using WPF.
 
-### Colecciones y estructuras
+## Learning Resources
 
-* Arrays
-* Arrays multidimensionales
-* Foreach
-* Listas
-* Listas de objetos
-* Enumeraciones (Enums)
-* Genéricos
+Books, courses, documentation, and other resources that contribute to my learning process are documented in the Books & Resources section of this Learning Journal.
 
-### Programación Orientada a Objetos
+## Philosophy
 
-* Clases y objetos
-* Constructores
-* Miembros estáticos
-* Herencia
-* Clases abstractas
-* Polimorfismo
+I believe that learning happens through a combination of:
+
+* Studying theory
+* Building projects
+* Making mistakes
+* Refactoring code
+* Reading books
+* Documenting progress
+
+This repository serves as a record of that journey.
+
+## Future Topics
+
+Topics I plan to explore in the future:
+
+* Advanced OOP
 * Interfaces
-* Getters y Setters
-* Propiedades autoimplementadas
-* Método ToString
-* Objetos como argumentos
+* Inheritance
+* Polymorphism
+* LINQ
+* Asynchronous Programming
+* Design Patterns
+* WPF
+* ASP.NET
+* Software Architecture
 
-### Otros temas
-
-* Manejo de excepciones
-* Operador condicional
-* Multithreading
-
-## Mini proyectos
-
-* Calculadora
-* Juego de adivinar el número
-* Piedra, papel o tijera
-* Calculadora de hipotenusa
-* Ejercicios de Programación Orientada a Objetos
-* Prácticas con arrays y listas
-
-## Filosofía de aprendizaje
-
-Creo que la mejor forma de aprender programación es construir proyectos, cometer errores, corregirlos y documentar el proceso.
-
-Este repositorio refleja ese recorrido paso a paso.
-
-Cada carpeta representa un concepto aprendido, un problema resuelto o un proyecto completado durante mi formación como desarrollador.
-
-## Próximos objetivos
-
-* Profundizar en Programación Orientada a Objetos
-* Aprender desarrollo de aplicaciones más complejas con .NET
-* Incorporar bases de datos
-* Construir proyectos de mayor escala
-* Continuar documentando mi progreso
-
-## Autor
-
-**Joaquin Hartwig**
-
-🎓 Analista en Sistemas / Licenciatura en Sistemas de Información
-🏛️ UNaM – FCEQyN
-
-GitHub: github.com/JoaquinHartwig
+Every project, note, and log in this section represents another step toward becoming a better developer.
