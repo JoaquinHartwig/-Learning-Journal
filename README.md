@@ -1,4 +1,4 @@
-📚 ## Learning Journal
+📚 ### Learning Journal
 
 Joaquín Hartwig
 🎓 Systems Analyst & Information Systems Student — UNaM FCEQyN
