@@ -13,7 +13,7 @@ The purpose of this journal is not only to store notes, but also to build consis
 
 "Small improvements, repeated every day, lead to remarkable results over time."
 
-👨‍💻 ## About Me
+👨‍💻 ### About Me
 
 I am a Systems Analyst and Information Systems student at UNaM (National University of Misiones, Argentina) with a strong interest in software development, problem-solving, cybersecurity, and continuous learning.
 
