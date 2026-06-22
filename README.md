@@ -34,7 +34,7 @@ I enjoy documenting what I learn, building projects, exploring new technologies,
 * Git & GitHub
 * Linux
 * PostgreSQL
-* MATLAB
+
 
 ---
 
