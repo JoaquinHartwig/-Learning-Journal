@@ -1,6 +1,6 @@
 # C# Roadmap: Beginner to Advanced
 
-## Phase 1 - Foundations (Current Stage)
+## Phase 1 - Foundations 
 
 Goal: Become comfortable writing small applications without tutorials.
 
@@ -25,7 +25,7 @@ Projects:
 
 ---
 
-## Phase 2 - Object-Oriented Programming
+## Phase 2 - Object-Oriented Programming (Current Stage)
 
 Goal: Think in objects and relationships.
 
