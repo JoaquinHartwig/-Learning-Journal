@@ -17,13 +17,14 @@ My long-term goal is to reach **C1 level proficiency** and be able to read techn
 ##  Study Areas
 
 * PostgreSQL Documentation
-* MATLAB Documentation
+* The c# Guide Player 
 * Geany Documentation
 * Technical English
 * Academic Reading
 * IT Vocabulary
 * Grammar Analysis
 * Programming Concepts in English
+
 
 ---
 
