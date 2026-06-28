@@ -1,4 +1,4 @@
-🔷 AyED2 — Algoritmos y Estructuras de Datos 2
+ AyED2 — Algoritmos y Estructuras de Datos 2
 
 Universidad Nacional de Misiones — FCEQyN
 Lenguaje: C | Cursada: 2025
