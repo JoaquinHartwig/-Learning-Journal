@@ -7,7 +7,11 @@ Implementación de Tipos de Datos Abstractos (TDAs) y estructuras de datos en le
 El objetivo no es solo resolver ejercicios, sino comprender qué ocurre internamente en memoria cuando se crean, recorren, modifican y destruyen estructuras mediante punteros.
 
  Estructuras estudiadas
-TipoEstructuraEstadoEstáticaVector✅Dinámica linealLista enlazada✅Dinámica linealPila (LIFO)✅Dinámica linealCola (FIFO)✅Dinámica no linealÁrbol)✅
+TipoEstructuraEstadoEstáticaVector
+✅Dinámica linealLista enlazada
+✅Dinámica linealPila (LIFO)
+✅Dinámica linealCola (FIFO)
+✅Dinámica no linealÁrbol)✅
 
 ## AyED2
  [Ver repositorio de AyED2][(https://github.com/JoaquinHartwig/AyED2](https://github.com/JoaquinHartwig/AyED-2))
