@@ -1,4 +1,4 @@
-# 🇬🇧 English Learning Journal
+#  English Learning Journal
 
 Personal record of my English learning journey focused on programming, computer science, technical documentation, and academic reading.
 
@@ -6,18 +6,18 @@ My long-term goal is to reach **C1 level proficiency** and be able to read techn
 
 ---
 
-## 📅 Learning Log
+##  Learning Log
 
 ### 2026
 
-* 📖 [June 2026](https://github.com/JoaquinHartwig/-Learning-Journal/blob/main/English/English2026/2026-06.md.md)
+*  [June 2026](https://github.com/JoaquinHartwig/-Learning-Journal/blob/main/English/English2026/2026-06.md.md)
 
 ---
 
-## 📚 Study Areas
+##  Study Areas
 
 * PostgreSQL Documentation
-* MATLAB Documentation
+* The c# Guide Player 
 * Geany Documentation
 * Technical English
 * Academic Reading
@@ -25,9 +25,10 @@ My long-term goal is to reach **C1 level proficiency** and be able to read techn
 * Grammar Analysis
 * Programming Concepts in English
 
+
 ---
 
-## 🎯 Goals
+##  Goals
 
 * Reach **C1 English proficiency**
 * Read technical documentation comfortably
@@ -38,7 +39,7 @@ My long-term goal is to reach **C1 level proficiency** and be able to read techn
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 * PostgreSQL documentation
 * MATLAB documentation
