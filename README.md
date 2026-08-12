@@ -19,7 +19,7 @@ The purpose of this journal is not only to store notes, but also to build consis
 
 #  About Me
 
-I am a Systems Analyst and Information Systems student at UNaM (National University of Misiones, Argentina) with a strong interest in software development, problem-solving, cybersecurity, and continuous learning.
+I am a Systems Analyst and Information Systems student at UNaM (National University of Misiones, Argentina) with a strong interest in software development, problem-solving, cybersecurity,philosophy and continuous learning.
 
 I enjoy documenting what I learn, building projects, exploring new technologies, and developing both technical and analytical skills.
 
