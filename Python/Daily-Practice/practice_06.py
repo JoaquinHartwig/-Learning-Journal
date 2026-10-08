@@ -1,4 +1,4 @@
-raw_tags = ["  python ", "DATABASE ", "  SQL", "django", "  JAVASCRIPT  ", "python", "  ", "C++"]
+raw_tags = ["   ", "DATABASE ", "  SQL", "django", "  JAVASCRIPT  ", "python", "  ", "C++"]
 forbidden_tags = ["c++", "php", "ruby"]
 
 
