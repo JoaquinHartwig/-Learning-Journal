@@ -14,9 +14,9 @@ latencias_altas = latencia_ordenada[-3:] #Devuelve los ultimos 3 elementos sin i
 print(latencias_altas)
 
 for value in latencias_ms:
-    if (value < 50.00):
+    if value < 50.00:
         print(f"Valor Optimo: {value}")
-    elif(value <= 150.0):
+    elif value <= 150.0:
         print(f"Valor Aceptable: {value}")
     else:
        print(f"Valor Critico: {value}")
