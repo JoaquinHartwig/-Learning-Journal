@@ -1,24 +1,42 @@
- AyED2 — Algoritmos y Estructuras de Datos 2
+# Algoritmos y Estructura de Datos II
 
-Universidad Nacional de Misiones — FCEQyN
-Lenguaje: C | Cursada: 2025
+Trabajos prácticos y ejercicios de la materia
+Algoritmos y Estructura de Datos II.
+Implementaciones en lenguaje C.
 
-Implementación de Tipos de Datos Abstractos (TDAs) y estructuras de datos en lenguaje C, siguiendo la metodología de separación en interfaz (.h), implementación (.c) y programa principal (main.c).
-El objetivo no es solo resolver ejercicios, sino comprender qué ocurre internamente en memoria cuando se crean, recorren, modifican y destruyen estructuras mediante punteros.
+## Tecnologías
+- Lenguaje C
+- estructuras dinámicas y estáticas
+- Visual Studio Code
 
- Estructuras estudiadas
-TipoEstructuraEstadoEstáticaVector
-✅Dinámica linealLista enlazada
-✅Dinámica linealPila (LIFO)
-✅Dinámica linealCola (FIFO)
-✅Dinámica no linealÁrbol)✅
+## Contenido
 
-## AyED2
- [Ver repositorio de AyED2][(https://github.com/JoaquinHartwig/AyED2](https://github.com/JoaquinHartwig/AyED-2))
+### Estructuras Lineales
+- Listas simplemente enlazadas
+- Pilas (Stack)
+- Colas (Queue)
 
- Learning Log
-2026
+### Estructuras No Lineales
+- Árboles binarios
+- Árboles 2-3
 
- 08/06/2026 — Listas enlazadas y Pilas
+### TDA (Tipos de Datos Abstractos)
+- Implementación de TDA en C
+- Manejo de punteros
+- Gestión dinámica de memoria
 
+## Conceptos clave
+- Punteros y referencias
+- Memoria dinámica (malloc, free)
+- Nodos y enlaces
+- Operaciones: insertar, eliminar, buscar
+  
+## Repositorio de teoria
+https://app.notion.com/p/AyED2-Mesa-te-rica-3aa133de1cd0809fa1cecb90c5a01984?source=copy_link
 
+## Autor
+Estudiante: Joaquin Hartwig
+Carrera: Analista en Sistemas /
+         Licenciatura en Sistemas de Información
+Universidad: UNaM FCEQyN
+GitHub: github.com/JoaquinHartwig
