@@ -110,3 +110,31 @@ Requerimientos:
         Filtrá los permisos solicitados contra los permitidos. Generá dos listas: permisos_otorgados y permisos_rechazados.
 
     Al finalizar, imprimí el reporte final detallando qué permisos se concedieron y cuáles se denegaron.
+
+Ejercicio 9: Flota de vehículos (Lista de diccionarios)
+
+Creá una lista llamada autos que contenga 3 diccionarios. Cada diccionario representa un auto con las claves 'marca', 'modelo', 'año' y 'disponible' (booleano).
+
+    Recorré la lista con un bucle for.
+
+    Si el auto es del año 2020 o posterior, cambiá 'disponible' a True.
+
+    Imprimí únicamente los autos que estén disponibles mostrando la marca, el modelo y el año.
+
+Ejercicio 10: Catálogo de productos (Diccionario de diccionarios)
+
+Creá un diccionario llamado tienda donde cada clave sea el código de un producto (ej. 'P01', 'P02'). El valor de cada clave debe ser un diccionario con 'nombre', 'precio' y 'categoria'.
+
+    Recorré el catálogo imprimiendo el código y los detalles de cada producto con sangría (\t).
+
+    Usá .get() para intentar buscar la clave 'descuento'. Si no existe, la consola debe mostrar "Sin descuento aplicado".
+
+Ejercicio 11: Habilidades de usuarios (Manejo de datos mixtos)
+
+Creá un diccionario llamado usuarios donde las claves sean nombres de desarrolladores. Algunos usuarios tendrán como valor una lista de lenguajes que dominan (ej. ['Python', 'SQL']) y otros tendrán un único lenguaje en un string simple (ej. 'Java').
+
+    Recorré el diccionario con .items().
+
+    Usá isinstance() para detectar si el valor es una lista o un string.
+
+    Si es lista, recorrela con un bucle interno imprimiendo cada lenguaje con un guion (-). Si es un string, imprimilo directamente.
