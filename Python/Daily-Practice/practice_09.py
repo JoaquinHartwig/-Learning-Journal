@@ -24,7 +24,7 @@ autos = {
 for auto, detalles in autos.items():
     if detalles["año"] >= 2020:
      detalles["disponibilidad"] = True
-     print(f"{auto}")
+   
     if detalles["disponibilidad"]:
         marca = detalles["marca"].upper()
         modelo = detalles["modelo"].title()
