@@ -15,5 +15,5 @@ for nombre, numeros_fav in numeros_favoritos.items():
     for numeros in numeros_fav:
         print(f"{numeros}")
 
-# Este codigo funciona pq todos los elemos (numeros) son listas, ahora voy a 
+# Este codigo funciona pq todos los elementos (numeros) son listas, ahora voy a 
 #estudiar q pasa si no lo son, y como resolverlos 
