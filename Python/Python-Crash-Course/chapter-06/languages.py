@@ -10,6 +10,6 @@ print(f"Sarah's favorite language is {language}.")
 
 #Recorrido completo del conjunto
 
-for lenguaje in favorite_languages.items():
+for nombre, lenguaje in favorite_languages.items():
     print(f"El lenguaje favorito de {nombre.title()} es {lenguaje.title()}.")
 
