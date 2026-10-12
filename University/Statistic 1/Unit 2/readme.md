@@ -9,3 +9,7 @@ pueden formar si se selecciona exactamente el número especificado de cada categ
 Ejercicio Nº5: En el departamento de sistemas de una empresa hay 6 analistas disponibles para realizar la
 auditoría de 3 proyectos independientes. Si a cada proyecto se le asigna un analista distinto, ¿de cuántas
 formas se pueden asignar los analistas a los 3 proyectos?
+
+Ejercicio Nº6: Se desea calcular la cantidad de contraseñas posibles para un sistema bancario. Cada contraseña
+debe estar formada por 3 letras mayúsculas con repetición (tomadas de un abecedario de 26 letras) seguidas
+de 4 dígitos del 0 al 9 con repetición. ¿Cuántas contraseñas distintas se pueden generar?
