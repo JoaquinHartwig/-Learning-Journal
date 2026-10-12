@@ -39,3 +39,6 @@ Cuantas posibles fórmulas políticas hay
 
 Ejercicio Nº12: Cinco libros distintos se colocan en una estantería en línea. ¿De cuántas maneras distintas
 pueden ordenarse?
+
+Ejercicio Nº13: De 8 estudiantes se deben elegir un presidente, un vicepresidente y un secretario (posiciones
+distintas). ¿De cuántas maneras se pueden asignar esos tres cargos?
