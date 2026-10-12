@@ -30,3 +30,12 @@ alfanuméricos con repetición (utilizando 26 letras y 10 dígitos del 0 al 9):
 • Sistema A: 2 letras seguidas de 4 dígitos.
 • Sistema B: 3 letras seguidas de 3 dígitos.
 ¿Cuántos códigos únicos puede generar cada sistema?
+
+Ejercicio Nº10: Calcule cuántos autos pudieron haberse inscripto en la Argentina en el registro del automotor
+con el sistema anterior de patentes. ¿Y con el sistema nuevo?
+
+Ejercicio Nº11: Si se toman de 10 políticos para formar un partido de 1 presidente 2 vicepresidente y 3 vocales.
+Cuantas posibles fórmulas políticas hay
+
+Ejercicio Nº12: Cinco libros distintos se colocan en una estantería en línea. ¿De cuántas maneras distintas
+pueden ordenarse?
