@@ -13,3 +13,7 @@ formas se pueden asignar los analistas a los 3 proyectos?
 Ejercicio Nº6: Se desea calcular la cantidad de contraseñas posibles para un sistema bancario. Cada contraseña
 debe estar formada por 3 letras mayúsculas con repetición (tomadas de un abecedario de 26 letras) seguidas
 de 4 dígitos del 0 al 9 con repetición. ¿Cuántas contraseñas distintas se pueden generar?
+
+Ejercicio Nº7: Se dispone de un grupo de 8 deportistas y se quiere conocer la cantidad de combinaciones posibles
+para seleccionar una delegación según el tamaño del equipo:
+a) Grupos de a 5 b) grupos de a 3 c) de a 4
