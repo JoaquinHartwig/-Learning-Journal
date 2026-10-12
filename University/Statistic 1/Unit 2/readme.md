@@ -42,3 +42,9 @@ pueden ordenarse?
 
 Ejercicio Nº13: De 8 estudiantes se deben elegir un presidente, un vicepresidente y un secretario (posiciones
 distintas). ¿De cuántas maneras se pueden asignar esos tres cargos?
+
+Ejercicio Nº14: En un equipo de 12 personas se eligen 4 para formar un comité (el orden no importa).
+¿Cuántos comités distintos son posibles?
+
+Ejercicio Nº15: ¿Cuántas contraseñas de 7 letras pueden formarse usando las 26 letras del alfabeto si se
+permiten repeticiones y el orden importa?
