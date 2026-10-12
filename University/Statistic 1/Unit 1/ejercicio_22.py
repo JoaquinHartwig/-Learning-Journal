@@ -7,9 +7,9 @@ fa = np.array([12, 25, 20, 12, 6])
 
 # Marcas de clase (xi), amplitud (Ai) y total (n)
 xi = (limites_inferiores + limites_superiores) / 2.0
-Ai = limites_superiores[0] - limites_inferiores[0]
-n = np.sum(fa)
-Fa = np.cumsum(fa)
+Ai = limites_superiores[0] - limites_inferiores[0] #Amplitud de Clase
+n = np.sum(fa) 
+Fa = np.cumsum(fa) #Frecuencia Relativa Absolutax
 
 # --- TENDENCIA CENTRAL Y DISPERSIÓN ---
 media = np.sum(xi * fa) / n
