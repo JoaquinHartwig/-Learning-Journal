@@ -138,3 +138,70 @@ Creá un diccionario llamado usuarios donde las claves sean nombres de desarroll
     Usá isinstance() para detectar si el valor es una lista o un string.
 
     Si es lista, recorrela con un bucle interno imprimiendo cada lenguaje con un guion (-). Si es un string, imprimilo directamente.
+
+Ejercicio 12 : Proyecto Sistema de Gestión de Biblioteca Técnica
+
+Creá un diccionario llamado biblioteca que contenga el catálogo de libros técnicos de la universidad.
+
+Cada clave del diccionario principal será el código de un libro (ejemplo: "LIB01", "LIB02"). El valor de cada código será otro diccionario con las siguientes propiedades:
+
+    'titulo': String.
+
+    'autor': String.
+
+    'anio': Número entero.
+
+    'prestado': Booleano (True o False).
+
+    'categorias': Puede ser un string simple (si tiene una sola categoría, ej: "Programación") o una lista de strings (si abarca varias, ej: ["Bases de Datos", "Sistemas Operativos"]).
+
+Datos de prueba para tu código:
+Python
+
+biblioteca = {
+    "LIB01": {
+        "titulo": "python crash course",
+        "autor": "eric matthes",
+        "anio": 2023,
+        "prestado": False,
+        "categorias": ["Programación", "Data Science"]
+    },
+    "LIB02": {
+        "titulo": "ingeniería de software",
+        "autor": "ian sommerville",
+        "anio": 2011,
+        "prestado": True,
+        "categorias": "Ingeniería"
+    },
+    "LIB03": {
+        "titulo": "análisis y diseño de sistemas",
+        "autor": "kendall & kendall",
+        "anio": 2018,
+        "prestado": False,
+        "categorias": ["Sistemas", "Análisis"]
+    }
+}
+
+Lo que tenés que programar:
+
+    Actualización de préstamos:
+
+        Recorré el catálogo. Si el libro fue publicado en 2020 o posterior y actualmente está en False (prestado), cambialo a True (simulando que se reservó automáticamente por ser una edición nueva).
+
+    Reporte por consola:
+
+        Mapeá todos los libros imprimiendo su Código en mayúsculas.
+
+        Mostrá el Título y el Autor aplicando .title().
+
+        Usá .get() para buscar la clave opcional 'ubicacion'. Si la clave no existe en el libro, la consola debe imprimir: "Depósito central".
+
+        Para imprimir las Categorías:
+
+            Usá isinstance() para saber si la propiedad 'categorias' es una lista o un string.
+
+            Si es una lista, recorrela e imprimí cada categoría con un guion (\t- Categoría).
+
+            Si es un string simple, imprimilo directamente con sangría.
+
+        Mostrá el estado final del libro: si prestado es True, imprimí "Estado: No disponible (Prestado)". Si es False, imprimí "Estado: Disponible para retiro".
