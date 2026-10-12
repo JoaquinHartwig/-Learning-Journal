@@ -9,7 +9,11 @@ tienda = {
 
 for clave, lista in tienda.items():
     print(f"{clave.title()} \n")
-    nombre = f"{lista["nombre"]}"
-    precio = f"{lista["precio"]}"
-    categoria = f"{lista["categoria"]}"
+    nombre = f"{lista['nombre']}"
+    precio = f"{lista['precio']}"
+    categoria = f"{lista['categoria']}"
     print(f"\nNombre:{nombre.title()} \nPrecio:{precio.title()} \nCategoria: {categoria.title()}\n")
+    descuento= lista.get("descuento","no se encontro descuento") 
+    print(descuento)   
+
+
