@@ -28,7 +28,7 @@ I enjoy documenting what I learn, building projects, exploring new technologies,
 #  Currently Learning
 
 * C# and .NET
-* Windows Forms
+* Python
 * Data Structures and Algorithms in C
 * Technical English
 * Git & GitHub
