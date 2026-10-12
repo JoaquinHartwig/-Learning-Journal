@@ -13,7 +13,7 @@ for clave, lista in tienda.items():
     precio = f"{lista['precio']}"
     categoria = f"{lista['categoria']}"
     print(f"\nNombre:{nombre.title()} \nPrecio:{precio.title()} \nCategoria: {categoria.title()}\n")
-    descuento= lista.get("descuento","no se encontro descuento") 
+    descuento= lista.get("descuento","No se encontro descuento") 
     print(descuento)   
 
 
