@@ -17,3 +17,16 @@ de 4 dígitos del 0 al 9 con repetición. ¿Cuántas contraseñas distintas se p
 Ejercicio Nº7: Se dispone de un grupo de 8 deportistas y se quiere conocer la cantidad de combinaciones posibles
 para seleccionar una delegación según el tamaño del equipo:
 a) Grupos de a 5 b) grupos de a 3 c) de a 4
+
+Ejercicio Nº8: Sin repetir cifras, ¿cuántos números de tres cifras se pueden formar utilizando únicamente los dígitos
+impares 1,3,5,7,9?
+a) ¿Cuántos números en total se pueden formar?
+b) ¿Cuántos de esos números comienzan por 5?
+c) ¿Cuántos terminarán en 39?
+d) ¿Cuántos habrá mayores que 600?
+
+Ejercicio Nº9: Una entidad estatal evalúa dos sistemas de identificación de vehículos mediante códigos
+alfanuméricos con repetición (utilizando 26 letras y 10 dígitos del 0 al 9):
+• Sistema A: 2 letras seguidas de 4 dígitos.
+• Sistema B: 3 letras seguidas de 3 dígitos.
+¿Cuántos códigos únicos puede generar cada sistema?
