@@ -149,38 +149,12 @@ Cada clave del diccionario principal será el código de un libro (ejemplo: "LIB
 
     'autor': String.
 
-    'anio': Número entero.
+    'año': Número entero.
 
     'prestado': Booleano (True o False).
 
     'categorias': Puede ser un string simple (si tiene una sola categoría, ej: "Programación") o una lista de strings (si abarca varias, ej: ["Bases de Datos", "Sistemas Operativos"]).
 
-Datos de prueba para tu código:
-Python
-
-biblioteca = {
-    "LIB01": {
-        "titulo": "python crash course",
-        "autor": "eric matthes",
-        "anio": 2023,
-        "prestado": False,
-        "categorias": ["Programación", "Data Science"]
-    },
-    "LIB02": {
-        "titulo": "ingeniería de software",
-        "autor": "ian sommerville",
-        "anio": 2011,
-        "prestado": True,
-        "categorias": "Ingeniería"
-    },
-    "LIB03": {
-        "titulo": "análisis y diseño de sistemas",
-        "autor": "kendall & kendall",
-        "anio": 2018,
-        "prestado": False,
-        "categorias": ["Sistemas", "Análisis"]
-    }
-}
 
 Lo que tenés que programar:
 
