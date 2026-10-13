@@ -24,24 +24,21 @@ biblioteca = {
 
 for clave,diccionario in biblioteca.items():
 
-    titulo = f"{diccionario['titulo']}"
-    autor = f"{diccionario['autor']}"
-    año = f"{diccionario['anio']}"
-    prestado = f"{diccionario['prestado']}"
-    categorias = f"{diccionario['categorias']}"
+    
     if diccionario["anio"] >= 2020 and diccionario['prestado'] == False:
         diccionario['prestado']= True
     print()
     print("--------------------------")
-    print(f"{clave.title()}")
+    print(f"{clave.upper()}")
     print("--------------------------")
  
-    print(f"Titulo: {titulo.title()}")
-    print(f"Autor: {autor.title()}")
-    print(f"Año: {año}")
+    print(f"  Título: {diccionario['titulo'].title()}")
+    print(f"  Autor: {diccionario['autor'].title()}")
+    print(f"  Año: {diccionario['anio']}")
+    print("Categorias :")
     if isinstance(diccionario["categorias"],list):
             for categorias in diccionario["categorias"]:
-                print(f"Categorias: {categorias.title()}")
+                print(f" \t -{categorias.title()}")
     else:
          print(f"Categorias: {categorias.title()}")
 
