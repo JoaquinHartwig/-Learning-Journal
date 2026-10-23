@@ -1,0 +1,29 @@
+digraph CasosDeUso_VidaAnimal {
+	fontname=Arial rankdir=LR size="12,8"
+	Tutor [label="Tutor de Mascota
+(Actor)" shape=box style=rounded]
+	subgraph cluster_sistema {
+		node [fontname=Arial shape=ellipse]
+		color=black fontsize=14 label="Sistema de Gestión de Turnos Vida Animal" style=rounded
+		UC1 [label="Solicitar turno"]
+		UC2 [label="Consultar disponibilidad"]
+		UC3 [label="Registrarse en el sistema"]
+		UC4 [label="Configurar agenda
+de disponibilidad"]
+		UC5 [label="Generar reportes
+estadísticos"]
+		UC6 [label="Cancelar / Confirmar
+turno"]
+	}
+	Vet [label="Veterinario
+(Actor)" shape=box style=rounded]
+	Admin [label="Personal Administrativo
+(Actor)" shape=box style=rounded]
+	Tutor -> UC1 [dir=none]
+	Tutor -> UC6 [dir=none]
+	UC1 -> Admin [dir=none]
+	UC4 -> Vet [dir=none]
+	UC5 -> Admin [dir=none]
+	UC1 -> UC2 [label="&lt;&lt;include&gt;&gt;" style=dashed]
+	UC3 -> UC1 [label="&lt;&lt;extend&gt;&gt;" style=dashed]
+}
