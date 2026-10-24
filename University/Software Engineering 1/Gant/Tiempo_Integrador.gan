@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Integrador_Planificacion" company="" webLink="http://" view-date="2026-11-10" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="es_AR">
+    <description/>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="Name" width="200" order="0"/>
+        <field id="tpd4" name="Begin date" width="75" order="1"/>
+        <field id="tpd5" name="End date" width="75" order="2"/>
+        <field id="tpd15" name="Notes" width="20" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="filter.dueTodayTasks" value="false"/>
+        <option id="filter.overdueTasks" value="false"/>
+        <option id="filter.inProgressTodayTasks" value="false"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="0" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" uid="0b4be9d5364245e8a5e758d8fa9eca2f" name="1 - Definición del Escenario" meeting="false" start="2026-10-23" duration="1" complete="0" expand="true">
+            <depend id="1" type="2" difference="0" hardness="Strong"/>
+            <depend id="2" type="2" difference="0" hardness="Strong"/>
+            <depend id="3" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="1" uid="ebd7b1ed56ec4de5a79e53cd45588744" name="2 - Definir Objetivos" meeting="false" start="2026-10-24" duration="2" complete="0" expand="true">
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="2" uid="cfaebbc9c5d94c4bbfe685b5349d3db7" name="2.1 - Objetivos Generales" meeting="false" start="2026-10-24" duration="1" complete="0" expand="true"/>
+        <task id="3" uid="397fa155235345fd8c7c02288568c232" name="2.2 - Objetivos Específicos" meeting="false" start="2026-10-24" duration="1" complete="0" expand="true"/>
+        <task id="4" uid="87feda3fcfed484db8d2e068fabcbbba" name="3 - Planificación de Tareas" meeting="false" start="2026-10-26" duration="1" complete="0" expand="true">
+            <depend id="5" type="2" difference="0" hardness="Strong"/>
+            <depend id="6" type="2" difference="0" hardness="Strong"/>
+            <depend id="7" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="5" uid="bda503ffa4e84b6dace64e4471d461dd" name="3.1 - Planificación de Entrevistas" meeting="false" start="2026-10-27" duration="1" complete="0" expand="true"/>
+        <task id="6" uid="0a5ad9d3796f4c3497a835c18cde6cf1" name="3.2 - Planificación de Actividades" meeting="false" start="2026-10-27" duration="1" complete="0" expand="true"/>
+        <task id="7" uid="953eac84e38e4526b2562865508ef0fa" name="4 - Relevamiento" meeting="false" start="2026-10-27" duration="1" complete="0" expand="true">
+            <depend id="8" type="2" difference="0" hardness="Strong"/>
+            <depend id="9" type="2" difference="0" hardness="Strong"/>
+            <depend id="10" type="2" difference="0" hardness="Strong"/>
+            <depend id="11" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="8" uid="0bfe0b1d04d34be4babeb51b758dd80f" name="4.1 - Recolección de la Información con Técnicas" meeting="false" start="2026-10-28" duration="1" complete="0" expand="true"/>
+        <task id="9" uid="f61585f8eb1a4cf0b245ef5cd0ffd307" name="4.2 - Informe de relevamiento:" meeting="false" start="2026-10-28" duration="1" complete="0" expand="true"/>
+        <task id="10" uid="9751186ad671428e8aacfee51e0efd41" name="4.3 - Conclusiones del Relevamiento" meeting="false" start="2026-10-28" duration="1" complete="0" expand="true"/>
+        <task id="11" uid="a785cf31e4f441c4ab1c1e92cc52c83c" name="5 - Estudio de Factibilidad" meeting="false" start="2026-10-28" duration="1" complete="0" expand="true">
+            <depend id="12" type="2" difference="0" hardness="Strong"/>
+            <depend id="13" type="2" difference="0" hardness="Strong"/>
+            <depend id="14" type="2" difference="0" hardness="Strong"/>
+            <depend id="15" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="12" uid="564818f0fb6245e28c23c19d65af0981" name="5.1 - Factibilidad Técnica" meeting="false" start="2026-10-29" duration="1" complete="0" expand="true"/>
+        <task id="13" uid="8b6c71a7dcc74dc7bcf47444a44cf900" name="5.2 - Factibilidad Económica" meeting="false" start="2026-10-29" duration="1" complete="0" expand="true"/>
+        <task id="14" uid="73d900ee1702490e875c36438f92269e" name="5.3 - Factibilidad Operativa" meeting="false" start="2026-10-29" duration="1" complete="0" expand="true"/>
+        <task id="15" uid="3698e8530b7841eabd50ecfe9d3705ff" name="6 - Análisis de Sistema" meeting="false" start="2026-10-29" duration="3" complete="0" expand="true">
+            <depend id="16" type="2" difference="0" hardness="Strong"/>
+            <depend id="19" type="2" difference="0" hardness="Strong"/>
+            <depend id="21" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="16" uid="47c6413fbf4c44ec8f5faa8b6ef0881a" name="6.1 - Requisitos de Información" meeting="false" start="2026-11-01" duration="1" complete="0" expand="true">
+            <depend id="17" type="2" difference="0" hardness="Strong"/>
+            <depend id="18" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="17" uid="73dd88bda9df4ae1ba586eb2f62f04ea" name="6.2 - Requisitos Funcionales" meeting="false" start="2026-11-02" duration="1" complete="0" expand="true"/>
+        <task id="18" uid="99dd1f6a361f47399f502bf5422c65fd" name="6.3 - Requisitos No Funcionales" meeting="false" start="2026-11-02" duration="1" complete="0" expand="true"/>
+        <task id="19" uid="d99ae6a0111d4852807f93c9fbf898f6" name="6.4 - Diagrama de caso de uso y actores" meeting="false" start="2026-11-01" duration="3" complete="0" expand="false">
+            <depend id="20" type="2" difference="0" hardness="Strong"/>
+            <depend id="24" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="21" uid="ecd5c8da77b9491ea82081ea89c9bc44" name="6.4.1 - Definición de Actores" meeting="false" start="2026-11-01" duration="1" complete="0" expand="true"/>
+        <task id="20" uid="0206404cae924c55837a7afdf7f227b9" name="6.4.1 - Definición de Actores" meeting="false" start="2026-11-04" duration="1" complete="0" expand="true">
+            <depend id="22" type="2" difference="0" hardness="Strong"/>
+            <depend id="23" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="22" uid="86df80debbc447c5ab0463666817e7af" name="6.4.2 - Caso de uso de alto nivel" meeting="false" start="2026-11-05" duration="1" complete="0" expand="true"/>
+        <task id="23" uid="c51c67955cbf45f983aaf1fe60141dc2" name="6.4.3 - Caso de uso extendido" meeting="false" start="2026-11-05" duration="1" complete="0" expand="false"/>
+        <task id="24" uid="1911bcd34c6a451aa3403af896248f2a" name="6.5 - Matriz de Trazabilidad Objetivos/Requisitos" meeting="false" start="2026-11-04" duration="2" complete="0" expand="true">
+            <depend id="25" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="25" uid="251ddceea2294997a9e52221ea838d98" name="6.6 - Identificación de Conceptos" meeting="false" start="2026-11-06" duration="1" complete="0" expand="true">
+            <depend id="26" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="26" uid="3f2880a98a0d495c8e20d514e573339f" name="6.7 - Definición de conceptos y descripción de atributos" meeting="false" start="2026-11-07" duration="1" complete="0" expand="true">
+            <depend id="27" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="27" uid="c70a4105d9444e0088beaf4f7e0d4bcd" name="7 - Modelo conceptual" meeting="false" start="2026-11-08" duration="1" complete="0" expand="true">
+            <depend id="28" type="2" difference="0" hardness="Strong"/>
+            <depend id="29" type="2" difference="0" hardness="Strong"/>
+            <depend id="30" type="2" difference="0" hardness="Strong"/>
+            <depend id="32" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="28" uid="75f17f41a3a947fdab700c31f6807339" name="7.1 - Lista de Conceptos Candidatos" meeting="false" start="2026-11-09" duration="1" complete="0" expand="false"/>
+        <task id="29" uid="25d2737242a546dba5181205b77c6cba" name="7.2 - Lista de Conceptos Idóneos" meeting="false" start="2026-11-09" duration="1" complete="0" expand="true"/>
+        <task id="30" uid="b2b58dc6e56b4e1c9239adc152671c79" name="7.3 - Relaciones entre los Conceptos" meeting="false" start="2026-11-09" duration="1" complete="0" expand="true">
+            <depend id="31" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="31" uid="37ffa82f013b47e6b23d4a8367ac1870" name="7.4 - Descripción de Atributos" meeting="false" start="2026-11-10" duration="1" complete="0" expand="true"/>
+        <task id="32" uid="07339f96ac454027bb364ff28a52c498" name="7.5 - Diagrama Conceptual" meeting="false" start="2026-11-09" duration="1" complete="0" expand="true">
+            <depend id="33" type="2" difference="0" hardness="Strong"/>
+            <depend id="34" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="33" uid="a09f95e26b2c46d99214be5c19ca5788" name="7.6 - Modelo de Dominio" meeting="false" start="2026-11-10" duration="1" complete="0" expand="true"/>
+        <task id="34" uid="f538af6304b24a0496ba19e76286dd62" name="8 - Comportamiento del Sistema" meeting="false" start="2026-11-10" duration="1" complete="0" expand="true">
+            <depend id="35" type="2" difference="0" hardness="Strong"/>
+            <depend id="36" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="35" uid="a96f641c6016499c86807f8a4ee7b70e" name="8.1 - Diagrama de Secuencia a Nivel de sistema" meeting="false" start="2026-11-11" duration="1" complete="0" expand="true"/>
+        <task id="36" uid="ba3d834b8af14077a1976438763074ea" name="9 - Definir contratos" meeting="false" start="2026-11-11" duration="3" complete="0" expand="true">
+            <depend id="37" type="2" difference="0" hardness="Strong"/>
+            <depend id="42" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="37" uid="f3999db4ea664674b9b8c7a32f1c8345" name="10 - Caso de uso reales" meeting="false" start="2026-11-14" duration="2" complete="0" expand="true">
+            <depend id="38" type="2" difference="0" hardness="Strong"/>
+            <depend id="39" type="2" difference="0" hardness="Strong"/>
+            <depend id="40" type="2" difference="0" hardness="Strong"/>
+            <depend id="41" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="38" uid="50dac2fe234c41d1b443c304b80e2158" name="11 - Diagrama de secuencia de diseño" meeting="false" start="2026-11-16" duration="3" complete="0" expand="true"/>
+        <task id="39" uid="18de6c8d9968482cafa34c34c76bdc18" name="12 - Diagrama de clase" meeting="false" start="2026-11-16" duration="1" complete="0" expand="true"/>
+        <task id="40" uid="11da2a9b90d24749948a747c6cd6a27d" name="13 - Diseño de Salidas" meeting="false" start="2026-11-16" duration="2" complete="0" expand="true"/>
+        <task id="41" uid="ec29eb2caa5840498d88f576106351d7" name="14 - Diseño de entrada" meeting="false" start="2026-11-16" duration="1" complete="0" expand="true"/>
+        <task id="42" uid="3d5e6c95178c413492946e90d6d38a50" name="15 - Diseño de base de datos" meeting="false" start="2026-11-14" duration="1" complete="0" expand="true">
+            <depend id="43" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="43" uid="781313744ee2453fb942c1fb724c5986" name="16 - Codificación" meeting="false" start="2026-11-15" duration="3" complete="0" expand="true">
+            <depend id="44" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="44" uid="b05571de798b4261913691e0a573da42" name="17 - Pruebas y Depuración" meeting="false" start="2026-11-18" duration="3" complete="0" expand="true">
+            <depend id="47" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="45" uid="1b731e4fd31342a7982eb21a7bfd5240" name="18 - Implantación" meeting="false" start="2026-11-17" duration="10" complete="0" expand="true"/>
+        <task id="47" uid="a8f4f58d57494509bf44f7bd0ce5075b" name="19 - Capacitación" meeting="false" start="2026-11-21" duration="5" complete="0" expand="true">
+            <depend id="49" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="49" uid="59eb76a2f2944e288ccff88d12bf2304" name="20 - Elaboración de Manuales" meeting="false" start="2026-11-26" duration="5" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
