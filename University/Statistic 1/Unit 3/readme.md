@@ -35,6 +35,7 @@ Se recomienda realizar la instalación dentro de un entorno virtual para evitar 
 python -c "import scipy; print(scipy.__version__)"
 
 
+## Ejercicios:
 
 
 Ejercicio Nº1: Un jugador encesta triples con probabilidad
