@@ -48,3 +48,11 @@ Ejercicio Nº14: En un equipo de 12 personas se eligen 4 para formar un comité 
 
 Ejercicio Nº15: ¿Cuántas contraseñas de 7 letras pueden formarse usando las 26 letras del alfabeto si se
 permiten repeticiones y el orden importa?
+
+Ejercicio Nº17:En una facultad, el 25% de los estudiantes de primer año no aprobó Matemática, el 15 %
+no aprobó economía y un 10% ninguna de las dos. Si se selecciona un alumno al azar, calcule las siguientes
+probabilidades:
+a) Si ese estudiante no aprobó economía, ¿Cuál es la probabilidad de que haya desaprobado
+matemática?
+b) ¿Son independientes los eventos involucrados en el ítem anterior?
+c) ¿Cuál es la probabilidad de que haya desaprobado matemática o economía?
